@@ -1,0 +1,12 @@
+text 8,26 sans-serif 16 #000000 'AT&T'
+text 48,26 sans-serif 16 #000000 '<tag>'
+text 96,26 sans-serif 16 #000000 '©'
+text 112,26 sans-serif 16 #000000 '2026'
+text 152,26 sans-serif 16 #000000 '☃'
+text 8,62 sans-serif 16 #000000 'Unclosed'
+text 80.8,62 sans-serif 16b #000000 'bold'
+text 124.8,62 sans-serif 16bi #000000 'both'
+text 168,62 sans-serif 16 #000000 'italic?'
+rect 8,96 792,97 #808080
+text 8,119.92 sans-serif 24b #000000 'After'
+text 87.2,119.92 sans-serif 24b #000000 'rule'
