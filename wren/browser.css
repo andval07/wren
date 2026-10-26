@@ -1,0 +1,28 @@
+/* default style sheet, loosely based on the HTML spec's rendering section */
+head, script, style, title, meta, link, template, noscript { display: none; }
+html, body, div, p, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd,
+pre, blockquote, header, footer, nav, main, section, article, aside,
+form, fieldset, table, tr, figure, figcaption, address, hr, center,
+details, summary { display: block; }
+td, th { display: block; }
+body { margin: 8px; }
+p, dl, pre, blockquote, figure { margin-top: 1em; margin-bottom: 1em; }
+h1 { font-size: 2em; margin-top: 0.67em; margin-bottom: 0.67em; font-weight: bold; }
+h2 { font-size: 1.5em; margin-top: 0.83em; margin-bottom: 0.83em; font-weight: bold; }
+h3 { font-size: 1.17em; margin-top: 1em; margin-bottom: 1em; font-weight: bold; }
+h4 { margin-top: 1.33em; margin-bottom: 1.33em; font-weight: bold; }
+h5 { font-size: 0.83em; font-weight: bold; }
+h6 { font-size: 0.67em; font-weight: bold; }
+ul, ol { margin-top: 1em; margin-bottom: 1em; padding-left: 40px; }
+li ul, li ol { margin-top: 0; margin-bottom: 0; }
+blockquote, figure { margin-left: 40px; margin-right: 40px; }
+dd { margin-left: 40px; }
+b, strong, th, dt { font-weight: bold; }
+i, em, cite, var, dfn, address { font-style: italic; }
+small, sub, sup { font-size: smaller; }
+big { font-size: larger; }
+a { color: #0000ee; text-decoration: underline; }
+pre, code, kbd, samp, tt { font-family: monospace; }
+pre { white-space: pre; }
+hr { margin-top: 0.5em; margin-bottom: 0.5em; background-color: #808080; padding-top: 1px; }
+center { text-align: center; }
