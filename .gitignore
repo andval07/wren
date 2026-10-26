@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+*.png
+# personal interview notes, not part of the project
+SPIEGAZIONE.md
